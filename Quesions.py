@@ -1,4 +1,4 @@
-# The below  Questions have been attempted in code-chef on Monday 04 july 2022
+# The below  Questions have been attempted in code-chef on Monday 04 july 2022.
 # Question code: ENSPACE
 # Link: https://www.codechef.com/submit/ENSPACE
 # Code:
