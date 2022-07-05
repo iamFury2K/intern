@@ -1,1 +1,2 @@
 pacman -Qe: use this to find installed packages in arch linux
+
