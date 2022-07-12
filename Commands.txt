@@ -1,2 +1,2 @@
 pacman -Qe: use this to find installed packages in arch linux
-
+apt list --install: use this to find all installed packages in debian based linux
