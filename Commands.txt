@@ -1,2 +1,12 @@
 pacman -Qe: use this to find installed packages in arch linux
+
+
+
+
+
+# ADVANCED ADVANCED TOOL
 apt list --install: use this to find all installed packages in debian based linux
+apt seach 'package name' This search for the package mentioned in repository
+apt show 'package name' This will show info anout package mentioned
+apt purge 'Package name' This will remove the package mentioned with configuration files as well
+apt autoremove 'Package name' This will remove unused packages in your system
